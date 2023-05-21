@@ -15,7 +15,7 @@ public class MergeStringsAlternatelyTest {
     private final MergeStringsAlternately solution = new MergeStringsAlternately();
 
     @Test
-    public void MergeAlternately_testcase1() {
+    public void mergeAlternately_Testcase1() {
         String word1 = "abc";
         String word2 = "pqr";
         String actualOutput = solution.mergeAlternately(word1,word2);
@@ -25,7 +25,7 @@ public class MergeStringsAlternatelyTest {
     }
 
     @Test
-    public void MergeAlternately_testcase2() {
+    public void mergeAlternately_Testcase2() {
         String word1 = "ab";
         String word2 = "pqrs";
         String actualOutput = solution.mergeAlternately(word1,word2);
@@ -35,7 +35,7 @@ public class MergeStringsAlternatelyTest {
     }
 
     @Test
-    public void MergeAlternately_testcase3() {
+    public void mergeAlternately_Testcase3() {
         String word1 = "abcd";
         String word2 = "pq";
         String actualOutput = solution.mergeAlternately(word1,word2);
