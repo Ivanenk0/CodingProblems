@@ -17,6 +17,7 @@
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 151 | LeetCode | [Java](./src/main/java/leetcode/ReverseWordsInAString.java) | [Test](./src/test/java/leetcode/ReverseWordsInAStringTest.java) | Medium |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 169 | LeetCode | [Java](./src/main/java/leetcode/MajorityElement.java) | [Test](./src/test/java/leetcode/MajorityElementTest.java) | Easy |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 189 | LeetCode | [Java](./src/main/java/leetcode/RotateArray.java) | [Test](./src/test/java/leetcode/RotateArrayTest.java) | Medium |
+| [Summary Ranges](https://leetcode.com/problems/summary-ranges) | 228 | LeetCode | [Java](./src/main/java/leetcode/SummaryRanges.java) | [Test](./src/test/java/leetcode/SummaryRangesTest.java) | Easy |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 238 | LeetCode | [Java](./src/main/java/leetcode/ProductOfArrayExceptSelf.java) | [Test](./src/test/java/leetcode/ProductOfArrayExceptSelfTest.java) | Medium |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 283 | LeetCode | [Java](./src/main/java/leetcode/MoveZeroes.java) | [Test](./src/test/java/leetcode/MoveZeroesTest.java) | Easy |
 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | 334 | LeetCode | [Java](./src/main/java/leetcode/IncreasingTripletSubsequence.java) | [Test](./src/test/java/leetcode/IncreasingTripletSubsequenceTest.java) | Medium |
