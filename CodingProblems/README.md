@@ -44,7 +44,7 @@
 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | 2101 | LeetCode | [Java](./src/main/java/leetcode/DetonateTheMaximumBombs.java) | [Test](./src/test/java/leetcode/DetonateTheMaximumBombsTest.java) | Medium |
 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | 2215 | LeetCode | [Java](./src/main/java/leetcode/FindTheDifferenceOfTwoArrays.java) | [Test](./src/test/java/leetcode/FindTheDifferenceOfTwoArraysTest.java) | Easy |
 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | 2352 | LeetCode | [Java](./src/main/java/leetcode/EqualRowAndColumnPairs.java) | [Test](./src/test/java/leetcode/EqualRowAndColumnPairsTest.java) | Medium |
-
+| Halloween Candy | - | Sololearn | [Java](./src/main/java/sololearn/HalloweenCandy.java) | [Test](./src/test/java/sololearn/HalloweenCandyTest.java) | Easy |
 
 
 <!---
