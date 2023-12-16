@@ -46,6 +46,7 @@
 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | 2352 | LeetCode | [Java](./src/main/java/leetcode/EqualRowAndColumnPairs.java) | [Test](./src/test/java/leetcode/EqualRowAndColumnPairsTest.java) | Medium |
 | Halloween Candy | - | Sololearn | [Java](./src/main/java/sololearn/HalloweenCandy.java) | [Test](./src/test/java/sololearn/HalloweenCandyTest.java) | Easy |
 | Credit Card Validator | - | Sololearn | [Java](./src/main/java/sololearn/CreditCardValidator.java) | [Test](./src/test/java/sololearn/CreditCardValidatorTest.java) | Medium |
+| Military Time | - | Sololearn | [Java](./src/main/java/sololearn/MilitaryTime.java) | [Test](./src/test/java/sololearn/MilitaryTimeTest.java) | Easy |
 
 <!---
   | []() |  | LeetCode | [Java](./src/main/java/leetcode/) | [Test](./src/test/java/leetcode/) |  |
